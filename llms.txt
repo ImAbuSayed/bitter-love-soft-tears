@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bitter-love-soft-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bitter Love Soft Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-love-soft-tears/) |
+| **Get License** | [Get License For Bitter Love Soft Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-love-soft-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2851)
 
 ---
 
