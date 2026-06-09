@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bitter Love Soft Tears
+
+This log tracks the cryptographic history and versioning for the song **Bitter Love Soft Tears** (bitter-love-soft-tears).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T16:13:21.750398 | `v1` | `cfff0a0efbc44c914e1b91de64526fdb9567eb9ee0222c12edbe5381d80d8aac` | `775a4d4f67cea9bdff5676baa1421b54987ee6d21e89ff76989df3ccfe4ed0e6` | `2026-06-09_bitter-love-soft-tears-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
